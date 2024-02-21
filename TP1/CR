@@ -1,0 +1,11 @@
+1.1 :
+Chaque "0x00" correspond a ! pixel blanc comme une ligne fais 16 pixel
+il faut 0x00 0x00 pour faire une ligne de blanc
+
+Pour faire une ligne de noir il faut 0xFF 0xFF et il faut faire ca sur la
+troisème paire.
+
+(0xFF = 1111 1111)
+
+
+
